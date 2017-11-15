@@ -1,0 +1,14 @@
+//URL relative to the style.css
+$font-folder:'../fonts/';
+$img-folder: '../img/';
+$pie-htc-url:url(assets/ie8-support/PIE.htc); //url must be absolute or relative to the html document!
+$pie-url: $pie-htc-url;
+$bg-size-cover:url(assets/ie8-support/backgroundsize.min.htc); //url must be absolute or relative to the html document!
+// read more:
+//  * https://github.com/louisremi/background-size-polyfill
+//  * http://css3pie.com
+//COLORS
+$font:#515f67;
+$grey:#33363b;
+$green:#7ebc59;
+$overlay:#48525a;
